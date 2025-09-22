@@ -2,12 +2,11 @@
   "name": "portfolio_agus",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
-    "start": "next start",
-    "lint": "eslint"
-  },
+"scripts": {
+     "dev": "next dev",
+     "build": "next build",
+     "start": "next start"
+   },
   "dependencies": {
     "react": "19.1.0",
     "react-dom": "19.1.0",
